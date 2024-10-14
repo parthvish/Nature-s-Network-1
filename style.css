@@ -1,0 +1,36 @@
+#beni
+{
+    list-style-type: none;
+}
+body
+{
+    background-color: #eef5ce;
+}
+#navbar
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #454839;
+    height: 45px;
+    position: s ticky;
+    top: 0;
+  }
+.navbar
+{
+    float: left;
+}
+li a
+{
+    display: block;
+    padding: 15px ;
+    color: rgb(196, 196, 192);
+    text-align: center;
+    text-decoration: none;
+    background-color: #454839;
+}
+li a:hover
+{
+    background-color: #aaad9b;
+}
